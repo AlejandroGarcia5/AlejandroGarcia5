@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlejandroGarcia5
-- 👀 I’m interested in the technology field.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on anything that could give me experience.
+- 💞️ I’m looking to collaborate on anything that could give me valuable experience.
 - 📫 How to reach me: email: aalexgarcia5@gmail.com
 
 <!---
