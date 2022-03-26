@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on anything that could give me valuable experience.
-- 📫 How to reach me: email: aalexgarcia5@gmail.com
+- 📫 How to reach me: email = aalexgarcia5@gmail.com
 
 <!---
 AlejandroGarcia5/AlejandroGarcia5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
